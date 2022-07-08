@@ -2,7 +2,7 @@
 Constructor for ranking doctors based on whether they chose to perform surgery on benign tumors.
 
 #Background:
-A project I worked on asked me to write a constructor that would traverse a database and return insights about doctor performance.
+A project I worked on asked me to write a constructor that would traverse a +1 million record database and return insights about doctor performance.
 The constructor was expected to do the follow:
 1) Output historical performance of each doctor in the database.
   a) This performance was based on a violation rate
